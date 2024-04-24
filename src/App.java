@@ -23,7 +23,7 @@ public class App {
         System.out.println("");
 
         System.out.println("Nome: " + nome + " " + " - Sobrenome: " + sobrenome + " "
-                            + " - Idade: " + idade + " " + " - Altura: " + altura);
+                            + " - Idade: " + idade + " " + " - JoãoAltura: " + altura);
 
     }
 }
